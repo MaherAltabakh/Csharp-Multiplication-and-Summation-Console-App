@@ -1,0 +1,16 @@
+C:\Users\maher\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.AssemblyReference.cache
+C:\Users\maher\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.SuggestedBindingRedirects.cache
+C:\Users\maher\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\maher\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\maher\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\maher\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\maher\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.SuggestedBindingRedirects.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
